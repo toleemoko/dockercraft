@@ -9,7 +9,3 @@
 !.vscode/extensions.json
 *.code-workspace
 .history/
-
-# Node.js & NPM
-node_modules
-npm-debug.log
