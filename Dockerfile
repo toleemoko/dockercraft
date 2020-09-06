@@ -3,8 +3,8 @@
 
 FROM ubuntu:trusty
 
-RUN apt‑get update \
-&& apt‑get install ‑y default‑jdk wget
+RUN apt‑get update
+# && apt‑get install ‑y default‑jdk wget
 
 RUN mkdir minecraft \
 && wget ‑O minecraft/minecraft_server.jar \ 
