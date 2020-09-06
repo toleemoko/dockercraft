@@ -1,2 +1,4 @@
-FROM ubuntu:16.04
-CMD apt-get update
+FROM ubuntu:xenial
+RUN apt-get update
+
+RUN apt-get install -y vim
