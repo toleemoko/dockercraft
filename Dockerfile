@@ -1,3 +1,6 @@
+# toleemoko/dockerCraft - A Dockerized 1.8.9 Minecraft server.
+# Dockerfile v1.1
+
 FROM ubuntu:xenial
 RUN apt-get update \
     && apt-get install -y default-jdk wget \
