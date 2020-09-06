@@ -1,3 +1,15 @@
 # toleemoko/dockerCraft - A Dockerized 1.8.9 Minecraft server.
 # Gitignore v0.1
 
+# Default VS Code Gitignore
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+.history/
+
+# Node.js & NPM
+node_modules
+npm-debug.log
