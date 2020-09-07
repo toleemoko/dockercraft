@@ -17,6 +17,7 @@
 *.code-workspace
 .history/
 
+# Project Specific Files to Ignore
 # Hiding Local Minecraft & Development files
 minecraft
 dev
