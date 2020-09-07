@@ -1,5 +1,38 @@
 # toleemoko/dockerCraft - A Dockerized 1.8.9 Minecraft server.
-# Gitignore v0.3
+# Gitignore v1.0
+
+# General OS Files to Ignore
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+.DS_Store
+.AppleDouble
+.LSOverride
+# ---
+Thumbs.db
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.AppleDB
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
 
 # Default VS Code Gitignore
 .vscode/*
@@ -10,6 +43,20 @@
 *.code-workspace
 .history/
 
+# Default VIM Gitignore
+[._]*.s[a-v][a-z]
+!*.svg  # comment out if you don't need vector files
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+Session.vim
+Sessionx.vim
+.netrwhist
+*~
+[._]*.un~
+
+# Project Specific Files to Ignore
 # Hiding Local Minecraft & Development files
 minecraft
 dev
