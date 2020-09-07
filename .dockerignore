@@ -1,0 +1,22 @@
+# toleemoko/dockerCraft - A Dockerized 1.8.9 Minecraft server.
+# Dockerignore v1.0
+# Attempting to lessen the inclusion of files in the Docker Package.
+
+# Git & Related Files
+.git
+.dockerignore
+.gitignore
+*.md
+
+# Default VS Code Gitignore
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+.history/
+
+# Hiding Local Minecraft & Development files
+minecraft
+dev
