@@ -1,6 +1,7 @@
-# toleemoko/dockerCraft - A Dockerized 1.8.9 Minecraft server.
+# Toleemoko's Starting Plave for a .dockerignore
+# https://github.com/toleemoko/handyThings
+
 # Dockerignore v1.0
-# Attempting to lessen the inclusion of files in the Docker Package.
 
 # Git & Related Files
 .git
@@ -18,6 +19,3 @@
 .history/
 
 # Project Specific Files to Ignore
-# Hiding Local Minecraft & Development files
-minecraft
-dev

@@ -1,4 +1,6 @@
-# toleemoko/dockerCraft - A Dockerized 1.8.9 Minecraft server.
+# Toleemoko's Starting Plave for a .gitignore
+# https://github.com/toleemoko/handyThings
+
 # Gitignore v1.0
 
 # General OS Files to Ignore
@@ -57,6 +59,3 @@ Sessionx.vim
 [._]*.un~
 
 # Project Specific Files to Ignore
-# Hiding Local Minecraft & Development files
-minecraft
-dev
